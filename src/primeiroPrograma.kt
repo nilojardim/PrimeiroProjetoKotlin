@@ -22,7 +22,7 @@
             val voceTrabalha: Boolean = true
 
             val ehMaior = 3 == 3
-            println(ehMaior)
+            //println(ehMaior)
 
 
 
