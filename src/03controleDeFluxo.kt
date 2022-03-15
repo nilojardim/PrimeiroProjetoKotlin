@@ -15,9 +15,9 @@
             }   else {
                 print ("boa noite")
             }*/
-        val a = 4
+        /*val a = 4
         val b = 6
-        var maior = 0
+        var maior = 0*/
 
         /*maior = if (a > b) {
             a
@@ -27,7 +27,16 @@
 
         //maior = if (a > b) a else b
 
-            print(maior)
+
+        val antonia = 1
+
+            if (antonia > 10) {
+                println("O Aslan é meu")
+            } else if (antonia > 0 && antonia <= 10){
+                println ("vou ter que vender o aslan")
+            } else
+                println ("Pô, ela nem filhote teve e vc quer o que?")
+
 
 
 
